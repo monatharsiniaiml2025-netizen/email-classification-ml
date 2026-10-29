@@ -1,0 +1,22 @@
+Dataset Analysis
+
+Source: C:\Users\MONATHARSHINI\Downloads\email_classification_ml_project\email_classification_ml\data\emails.csv
+Total email rows after cleaning: 2104
+Number of categories: 10
+
+Samples per category:
+- Business: 850
+- Travel & Bookings: 280
+- Finance & Bills: 239
+- Personal: 212
+- Events & Invitations: 158
+- Promotions: 110
+- Newsletters: 109
+- Job Application: 108
+- Customer Support: 34
+- Reminders: 4
+
+Missing values after cleaning: 0
+Duplicate rows after cleaning: 0
+
+Note: Model performance depends on dataset quality, category distribution, and the test split. These results are not a real-world benchmark.

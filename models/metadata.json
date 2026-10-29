@@ -1,0 +1,20 @@
+{
+    "best_model": "Logistic Regression",
+    "selection_metric": "weighted_f1",
+    "categories": [
+        "Business",
+        "Customer Support",
+        "Events & Invitations",
+        "Finance & Bills",
+        "Job Application",
+        "Newsletters",
+        "Personal",
+        "Promotions",
+        "Reminders",
+        "Travel & Bookings"
+    ],
+    "total_rows_after_cleaning": 2104,
+    "train_samples": 1578,
+    "test_samples": 526,
+    "dataset_note": "Results depend on the supplied dataset and test split. Not a real-world benchmark."
+}
